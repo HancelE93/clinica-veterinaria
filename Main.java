@@ -29,10 +29,10 @@ public class Main {
         System.out.println("Es critica : " + consulta.esCritica());
         // ── Integrante 4 (opcional): Veterinario ─────────────────
         // Si el grupo NO tiene Integrante 4, comenta las 4 lineas de abajo
-        Veterinario vet = new Veterinario("Ana", "Gomez",
-                "VET-001", "Cirugia", 7);
-        System.out.println("\n" + vet.toString());
-        System.out.println("Es especialista : " + vet.esEspecialista());
+        //Veterinario vet = new Veterinario("Ana", "Gomez",
+                //"VET-001", "Cirugia", 7);
+        // System.out.println("\n" + vet.toString());
+        // System.out.println("Es especialista : " + vet.esEspecialista());
         System.out.println("\n=====================================");
     }
 }
